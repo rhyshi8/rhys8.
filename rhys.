@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My School Project</title>
+  </head>
+  <body>
+    <h1>Welcome to My School Website</h1>
+    <p>This is my project.</p>
+
+    <img src="mypic.jpg" alt="My Photo" width="300">
+  </body>
+</html>
