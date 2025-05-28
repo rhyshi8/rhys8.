@@ -1,0 +1,1 @@
+hi im rhys and im gonna talk about aniaml rights and how to are being exploted and abused illegally. the rspca has found that in homes the situations can make dog breeds that are usally silent bark. An example of this is with a beage that was rescued had been left outside urinating on its self causes it to attract maggots which would be basically eating of the beagle.
